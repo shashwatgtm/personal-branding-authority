@@ -1,0 +1,33 @@
+{
+  "skills": [
+    {
+      "repo": "personal-branding-authority",
+      "path": "SKILL.md",
+      "before_sha256": "ae8bb9668b0c5c282fd46085d386b396193c6f6809e51e104298732401a93d94",
+      "after_sha256": "2e84ccbbc7220d34b1b208197f9148adf35c12b0883eb891dba0ceb803fd2bf0",
+      "frontmatter_sha256": "0b2b7752f90c63929d39e32c7f7cee7aa66c6f06063c83e508c6619854464c59",
+      "reference_sha256": "48e5917aecb374a4dfd467a5a74a066c1061c275d6110cc51b36a4860fe0bd8e"
+    }
+  ],
+  "tools": {
+    "alpha": [
+      "gtm_consultation",
+      "epic_audit",
+      "generate_roadmap"
+    ],
+    "revenue": [
+      "account_plan_builder",
+      "deal_strategy_coach",
+      "discovery_question_bank",
+      "roi_business_case_builder",
+      "mutual_action_plan_generator",
+      "win_loss_analyzer",
+      "proposal_section_writer",
+      "email_sequence_generator",
+      "demo_script_builder",
+      "pricing_negotiation_guide",
+      "champion_enablement_kit",
+      "competitive_trap_setter"
+    ]
+  }
+}
